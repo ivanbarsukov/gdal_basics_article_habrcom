@@ -9,3 +9,4 @@ Data references:
 Feel free to use this repository for any purposes
 
 Eduard Kazakov, 2024
+ee.kazakov@gmail.com
